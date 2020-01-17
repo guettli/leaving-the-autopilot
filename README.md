@@ -19,8 +19,6 @@ Here are some practical hints how I practice "leaving the autopilot for some min
 
 * Drive a different way home. Monday to Friday I drive the same way from home to work with my bike. I try to drive a different way at least once a week.
 
-* protocol of thougts. I hear relaxing music. Lay down on the floor on a warm carpet (in winter I take a carpet with electric heating) put my legs on the couch. Take a paper and pen. Close the eyes and wait for the thougts that come to my mind. I try not to judge (there are not good or bad thoughts). I take a note with the pen, then close the eyes again. There are thoughts about the future, about the past, crazy unrealistic dreams, boring items of daily live .... Sometimes it is called "monkey mind" or "crazy chicken". I don't try to tame the thoughts. They come and they go. I am just noticing them.
+* [Passive Protocol of Thoughts](https://github.com/guettli/passive-protocol-of-thoughts)
 
- * ....
- 
  
